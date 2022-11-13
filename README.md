@@ -1,5 +1,12 @@
 ### Hi there 👋
-﻿# resize compress imagesdf
+# ⚡ Stack
+<ul>
+  <li>
+    <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></span>
+  </li>
+</ul>
+
 <!--
 **ehdrn3020/ehdrn3020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
