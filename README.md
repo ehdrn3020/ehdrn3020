@@ -17,14 +17,12 @@
     <span><img src="https://img.shields.io/badge/GoogleAds-4285F4?style=for-the-badge&logo=GoogleAds&logoColor=white"></span>
   </div>
   <div class='data'>
-    <span><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black"></span>
     <span><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=ApacheHive&logoColor=black"></span>
     <span><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"></span>
-    <span><img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache Airflow&logoColor=white"></span>
   </div>
   <div class='aws'>
     <span><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"></span>
@@ -43,6 +41,8 @@
     <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"></span>
   </div>
   <div class='cicd'>
+    <span><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black"></span>
+    <span><img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache Airflow&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=Shell&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></span>
