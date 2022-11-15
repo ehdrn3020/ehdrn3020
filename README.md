@@ -46,8 +46,6 @@
     <span><img src="https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=Shell&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></span>
-    <span><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"></span>
-    <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"></span>
   </div>
 </div>
 
