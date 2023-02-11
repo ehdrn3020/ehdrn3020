@@ -1,7 +1,7 @@
 ### Hi there 👋
 # ⚡ Stack
 <div style="text-align:center;">
-  <div class='back-end' style="text-align:center;">
+  <div class='back-end'>
     <span><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"></span>
