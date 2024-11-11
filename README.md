@@ -6,10 +6,10 @@
     <span><img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache Airflow&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=ApacheHive&logoColor=black"></span>
     <span><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black"></span>
   </div>
   <div class='data' align="center">
-    <span><img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=ApacheHive&logoColor=black"></span>
     <span><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/NiFi-003A70?style=for-the-badge&logo=apachenifi&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"></span>
